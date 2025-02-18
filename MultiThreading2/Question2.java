@@ -1,5 +1,7 @@
 package com.java.company.MultiThreading2;
 
+//Q2)Improve the code written in Basics of Multi Threading Part 1 exercise question 4 to handle the deadlock using reentract lock.
+
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
